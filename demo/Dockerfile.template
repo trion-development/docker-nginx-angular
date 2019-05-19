@@ -1,0 +1,2 @@
+FROM trion/docker-nginx-angular
+COPY dist/demo /usr/share/nginx/html
